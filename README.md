@@ -1,2 +1,2 @@
 # spring-cloud-config
-分布式配置
+远程分布式配置
